@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kxstitch"
 VERSION=1.2.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Graphics"
 SUMMARY="KDE cross stitch editor"
 DESCRIPTION="KXStitch is a program that lets you create cross stitch patterns
