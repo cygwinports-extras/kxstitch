@@ -1,8 +1,8 @@
-inherit kde4
+inherit kf5
 
 NAME="kxstitch"
-VERSION=1.2.0
-RELEASE=3
+VERSION=2.1.1
+RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="KDE cross stitch editor"
 DESCRIPTION="KXStitch is a program that lets you create cross stitch patterns
@@ -14,4 +14,4 @@ stitches or optionally use fractional stitches. You may also use an image as a
 background. These imported images can then be modified using the supplied tools
 to produce your final design."
 HOMEPAGE="http://kxstitch.sourceforge.net/"
-SRC_URI="mirror://kde/stable/kxstitch/${VERSION}/src/kxstitch-${VERSION}.tar.bz2"
+SRC_URI="mirror://kde/stable/kxstitch/${VERSION}/kxstitch-${VERSION}.tar.xz"
